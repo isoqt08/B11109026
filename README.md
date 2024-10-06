@@ -1,2 +1,3 @@
 # B11109026
-LABUBU
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
