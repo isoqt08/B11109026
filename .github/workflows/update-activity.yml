@@ -16,4 +16,4 @@ jobs:
         uses: TheDanniCraft/activity-log@v1
         with:
           GITHUB_USERNAME: "isoqt08"
-          GITHUB_TOKEN: ${{ secrets.TOKEN }} # Ensure this matches the secret name in repository settings
+          GITHUB_TOKEN: ${{ secrets.DEVHW4 }} # Ensure this matches the secret name in repository settings
